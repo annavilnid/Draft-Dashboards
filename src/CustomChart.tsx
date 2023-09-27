@@ -6,6 +6,7 @@ const data = [
     { time: '00:00', value: 2000 },
     { time: '00:00', value: 1500 },
     { time: '00:00', value: 1500 },
+    { time: '00:00', value: 1500 },
 ];
 
 function CustomChart() {
